@@ -1,0 +1,4 @@
+requests==2.26.0
+datetime==4.3
+PyYAML==5.4.1
+streamlit==0.89.0
